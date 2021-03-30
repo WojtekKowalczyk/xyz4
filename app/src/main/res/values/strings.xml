@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+
+    <string name="znak_zawodnik_1">X</string>
+    <string name="znak_zawodnik_2">O</string>
+
+</resources>
